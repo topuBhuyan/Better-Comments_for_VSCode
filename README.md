@@ -5,13 +5,14 @@ With this extension, you will be able to categorise your annotations into:
 
 * **Alerts**
 * **Queries**
-- **TODOs**
-+ **Highlights**
-+ + **Commented out code can also be styled to make it clear the code shouldn't be there**
-+ + **Any other comment styles you'd like can be specified in the settings**
+* **TODOs**
+* **Highlights**
+* **Commented out code can also be styled to make it clear the code shouldn't be there**
+* **Any other comment styles you'd like can be specified in the settings**
+
+<img width="1131" height="465" alt="betterComment" src="https://github.com/user-attachments/assets/a6b04d2c-e874-4b8f-a043-715cd647cdd7" />
  
 ```
-
 /**
 *       Arrays can have more than one dimension. For example, 
 **      four arrays. Two arrays have two dimensions. Two arrays have three dimensions. 
@@ -30,4 +31,5 @@ if(n == 0)
     Console.WriteLine("NO");
 
 ```
+
 
